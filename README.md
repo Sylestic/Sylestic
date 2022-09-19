@@ -1,16 +1,61 @@
-### Hi there 👋
+```
+.............                                                              
+...............                                                            
+...................                                                        
+...................                                                        
+..................                                                         
+....................                                                       
+......................                                                     
+........................              ...',,,.....                         
+............................     ..',;:cloolldxdc...                       
+.............................. ..';::;;;;;;,,;lxOd;..                      
+............................  ..,,'.'''..,:,..'lO0kc..                     
+..............................',,,''.....:dc,..'oKNO:.                     
+........................,;,;;',,,,,'';,. ':','..;OWNx'.                    
+........................','...';;;;'..'.  .......dKXk'.                    
+......................   ...',,;;::;,'.........'':odc.                     
+.....................    ...',,,,;,,;:;,'.......',,,.                      
+.....................   ....''''..''',,:c;'..'','....                      
+.....................   ....:odc......',;;;,',:c:;..                       
+.....................   .....'cc'.......'''',,,,,,..    .,:clc;'...        
+...................      .................'''',,...    .'cddccddl::c:'.    
+.........',:cllc,..      ....................',,,'.      .,;..,lxxoloc.    
+....;;;cc:lc:cdx;'..    ...      .............''''.   .......':ldxl,,:'    
+...,,. ,::ll;,cl,''.    ...           ..........'..   .....';:ccodo;.:;.   
+...,,. ','cdxxxo:,,'.......           .............  ..''''',,,,:cc;,c:.   
+''''''''..,;cooooc,,,;;'.  .              .............',,'.....',::,'.    
+'''''''....',;;:cc;;;::;'.              .................''......,;'..     
+,,,,,,,,,'.';;;::::cc:cc;....              ....'''..............',,.       
+;;;;;;;:,'':c::lllcll;,,'...,''...        .,;:;;;;;,,,,;;.    .;lc;'.......
+;;;;;;;;,,cllooodoooc,......ckOkxo,      .o0Odollllclll;....  ..''cl,',''''
+;;;,,,,,,;:lllllloo:'.......:xO0Kk,      'dOkdollccc:cc;'.....:oookx:;;;;;;
+ooooooooodddddxxxdl;,,,... ...,ll'       .':odooolllc:;;;,'''';:clol:;;;::;
+dddddddddddddddddc';lclcc;....,;.      ...'',:okOOkxxxxxddodollc:cclllccccc
+dddoooolllcccccll;.,:oo:od,...',.   .....,,..,dXXXKOxxxxxxxxxddddddooooolll
+olllccc:::::::::lolc::::dx:''.''.  ..........'loloooodxxddddddddddddddooooo
+llllccc::::;;;,,,:oxxdl::;,''';lxl'...........',;:::loddddddddddddddddddooo
+oolllccc::;;;,,'''';dkd:;'''cx0NWWKxc:;,,,'''.'''''';loddddddddodddddoooooo
+doolllccc:::;,''... .cxkdc;,;:clxO0K0Odc:ccccllcllllooooooooooooooooooooooo
+ddooollllccc::;,'...  .;oxkxlc:;,,;:::;;:cclllllllooooooooooooooooooooooooo
+xddddoooollllccc:;'...   .':clooollllllcccllllloooooooooooooooooooooooooooo
+xxdddddddddooooolcc:,'...     .....',,;:clloooooooooooooooooooooooooooooooo
+xxxxdddddddddddddooollc::;,,'''''',;:cclooooooooooooooooooooooooooooooooooo
+xxxxxxxxxxxxxxxxddddddddooooooooooooooooooooooddooooooooooooooooooooooooooo
+xxxxxxxxxxxxxxxxxxddddddddooooooooooooooddddddddddddddddddooooooooooooooddd
+xxxxxxxxxxxxxxxxxxddddddddooooooooooddddddddddddddddddddddddddddddddddddddd
+xxxxxxxxxxxxxxxxxxdddddddddoooodddddddddddddddddddddddddddddddddddddddddddd
+xxxxxxxxxxxxxxxxxxdddddddddoooddddddddddddddddxxxxxxxdddddddddddddddddddddd
+xxxxxxxxxxxxxxxxxxdddddddddoddddddddddddddddxxxxxxxxxxxxxxxddddddddddddxxxx
 
-<!--
-**Sylestic/Sylestic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+				AMONG US DRIP CREWMATE LICENSE  
+					Version 1, April 2021  
 
-Here are some ideas to get you started:
+Copyright © 2022 Sylestic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Permission is hereby granted for any modification, publishing, distributing and/or sell copies of the Software provided the conditions are met.  
+
+
+		TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION  
+
+0. The persons must have an adequate amount of drip  
+```
